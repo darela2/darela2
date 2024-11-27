@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Darela2
 
-🌐 A passionate web developer focused on creating intuitive and dynamic websites. I specialize in front-end and back-end technologies, with a keen interest in building full-stack applications.
+🌐 A newbie web developer focused on creating intuitive and dynamic websites. I want to specialize in front-end and back-end technologies, with a keen interest in building full-stack applications.
 
 ## 👀 About Me
 - 🧠 I’m interested in:
