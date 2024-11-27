@@ -1,18 +1,26 @@
 # 👋 Hi, I’m Darela2
 
-🌐 A newbie web developer who loves coding and designing websites.
+🌐 A passionate web developer focused on creating intuitive and dynamic websites. I specialize in front-end and back-end technologies, with a keen interest in building full-stack applications.
 
 ## 👀 About Me
-- 🧠 I’m interested in web development, UI/UX design, and open-source contributions.
-- 🌱 Currently exploring:
-  - PHP and Laravel
-  - Frontend frameworks (Bootstrap) 
-  - Python
-- 🎯 My goal: Build apps that solve real-world problems.
+- 🧠 I’m interested in:
+  - **Web development** (Frontend & Backend)
+  - **UI/UX design** to create user-friendly interfaces
+  - **Open-source contributions** and collaborating on innovative projects
+- 🌱 Currently learning:
+  - PHP & Laravel for backend development
+  - Frontend frameworks like Bootstrap & React
+  - Python for automation and machine learning
+- 🎯 My goal: To build apps that solve real-world problems, enhance user experience, and contribute to the tech community.
 
 ## 💞️ Let’s Collaborate
-- Open to teaming up on beginner-friendly web dev projects or hackathons.
-- Love working with HTML, CSS, JavaScript and PHP to bring ideas to life.
+- Open to working on beginner-friendly web dev projects, hackathons, and contributing to open-source repositories.
+- Always excited to work with HTML, CSS, JavaScript, PHP, and any technology that makes ideas come to life.
+
+## 🛠️ Skills
+- **Languages**: HTML, CSS, JavaScript, PHP, Python
+- **Frameworks**: Laravel, Bootstrap, React
+- **Tools**: Git, VS Code
 
 ## 📫 Contact Me
 - 📧 [Email](mailto:davidredondo2002.dr@gmail.com)
@@ -20,8 +28,14 @@
 
 ## 😄 Fun Facts
 - Pronouns: He/Him
-- Location: Spain 
-- I enjoy gym training when I’m not coding.
+- Location: Spain 🇪🇸
+- I love hitting the gym when I’m not coding 💪.
+- I’m also a fan of photography and nature walks.
+
+## 🔥 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=darela2&show_icons=true&theme=radical)
+
 
 
 <!---
