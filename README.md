@@ -19,7 +19,7 @@
 
 ## 🛠️ Skills
 - **Languages**: HTML, CSS, JavaScript, PHP, Python
-- **Frameworks**: Laravel, Bootstrap, React
+- **Frameworks**: Laravel, Bootstrap
 - **Tools**: Git, VS Code
 
 ## 📫 Contact Me
