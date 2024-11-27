@@ -9,7 +9,7 @@
   - **Open-source contributions** and collaborating on innovative projects
 - 🌱 Currently learning:
   - PHP & Laravel for backend development
-  - Frontend frameworks like Bootstrap & React
+  - Bootstrap for frontend development
   - Python for automation and machine learning
 - 🎯 My goal: To build apps that solve real-world problems, enhance user experience, and contribute to the tech community.
 
