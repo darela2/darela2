@@ -29,8 +29,7 @@
 ## 😄 Fun Facts
 - Pronouns: He/Him
 - Location: Spain 🇪🇸
-- I love hitting the gym when I’m not coding 💪.
-- I’m also a fan of photography and nature walks.
+- I love hitting the gym when I’m not coding 💪
 
 ## 🔥 GitHub Stats
 
